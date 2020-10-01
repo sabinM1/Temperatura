@@ -1,6 +1,10 @@
 # Temperatura
 Programe Arduino pentru a citi temperatura cu ajutorul unui termistor de 10K
 
+### Demo
+
+![Demo](https://github.com/sabinM1/Temperatura/raw/master/demo.gif)
+
 ## Materiale necesare
  - un Arduino (am folosit Pro Micro) si Arduino IDE;
  - [un termistor de 10KΩ](https://www.tme.eu/ro/details/ntcc-10k/termistori-ntc-de-masura-tht/sr-passives/);
